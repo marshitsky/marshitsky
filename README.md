@@ -31,9 +31,9 @@
 - [Telegram](https://t.me/MirMar)
 - email: <a>marshitsky@gmail.com</a>
 
-<hr/>
+<!-- <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshitsky&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshitsky&show_icons=true&theme=radical) -->
 <!--
 **marshitsky/marshitsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
