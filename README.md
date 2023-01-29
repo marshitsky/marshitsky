@@ -34,6 +34,8 @@
 <hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshitsky&show_icons=true&theme=radical)
+
+![CodeWars](https://www.codewars.com/users/marshitsky/badges/small)
 <!--
 **marshitsky/marshitsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
